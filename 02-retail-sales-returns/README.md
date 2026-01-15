@@ -28,3 +28,5 @@ To interact with the analysis:
 2. Download the file (e.g., `.pbix` for Power BI or `.xlsx` for Excel).
 3. Open it on your local machine to explore the data and filters.
 4. Note: Due to file size limitations, the raw dataset is not hosted in this repository. It is available upon request.
+5. ## Dashboard Overview
+6. ![Dashboard Preview](./dashboard/preview.png)

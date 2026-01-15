@@ -21,3 +21,9 @@ The dataset required specific transformations to allow for deep time-series anal
 ## 🚀 Tools Used
 * **Power BI** (DAX, Power Query)
 * **CSV** (Initial Data Source)
+---
+## 📥 How to View the Dashboard
+To interact with the analysis:
+1. Navigate to the `dashboard/` folder.
+2. Download the file (e.g., `.pbix` for Power BI or `.xlsx` for Excel).
+3. Open it on your local machine to explore the data and filters.

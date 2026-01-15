@@ -1,64 +1,41 @@
-# 📊 Data Analyst Portfolio — Fatima
+# Data Analytics Portfolio — Fatima
 
-Welcome to my data analytics portfolio.
-
-This repository showcases hands-on projects developed using **Power BI** and **Excel**, focused on **business analysis, KPIs, and actionable insights** rather than pure technical visuals.
-
-All projects use **public, fictitious, or anonymized data** and are inspired by real-world business cases.
+Welcome to my data analytics portfolio. I am a **Logistics Management professional** transitioning into Data Analytics. This repository showcases my ability to transform raw data into actionable business insights using Power BI and Excel.
 
 ---
 
-## 🔹 Projects Overview
+## 🚀 Featured Projects
 
-### 1️⃣ Supply Chain Performance Dashboard (Power BI)
-📌 Focus: Logistics & Operations  
-- Inventory & order performance KPIs  
-- Trend analysis  
-- Operational insights for decision-making  
+### 1️⃣ [Supply Chain Performance Dashboard](./01-supply-chain-dashboard/)
+* **Focus**: Logistics & Operations efficiency.
+* **Goal**: Reduce lead time and optimize profit per item.
+* **Tools**: Power BI, DAX, Power Query.
 
-👉 Folder: `01-supply-chain-dashboard`
+### 2️⃣ [Retail Sales & Returns Analysis](./02-retail-sales-returns/)
+* **Focus**: Sales performance & Return management.
+* **Goal**: Identify return patterns and impact on net profit.
+* **Tools**: Power BI (Time Intelligence).
 
----
+### 3️⃣ [Data Jobs Market Analysis](./03-data-jobs-market-analysis/)
+* **Focus**: Salary & Market trends.
+* **Goal**: Analyze median salaries by country and role ratings.
+* **Tools**: Power BI (Salary Normalization).
 
-### 2️⃣ Retail Sales & Returns Analysis (Power BI)
-📌 Focus: Sales performance & returns management  
-- Sales vs returns analysis  
-- Monthly & yearly trends  
-- Customer and product insights  
-
-👉 Folder: `02-retail-sales-returns`
-
----
-
-### 3️⃣ Data Jobs Market Analysis (Power BI)
-📌 Focus: Job market & salary analytics  
-- Most demanded data roles  
-- Salary distribution by role & country  
-- Seniority & hiring trends  
-
-👉 Folder: `03-data-jobs-market-analysis`
+### 4️⃣ [Excel Sales Dashboard](./04-excel-dashboard/)
+* **Focus**: Executive-style KPI reporting.
+* **Goal**: Annual and monthly sales tracking with customer performance.
+* **Tools**: Advanced Excel, Pivot Tables, XLOOKUP.
 
 ---
 
-### 4️⃣ Excel Sales Dashboard (Excel)
-📌 Focus: KPI reporting & Excel analytics  
-- Pivot tables & charts  
-- Business KPIs  
-- Executive-style dashboard  
-
-👉 Folder: `04-excel-dashboard`
+## 🛠️ Technical Skills
+* **Data Visualization**: Power BI, Excel Dashboards.
+* **Data Transformation**: Power Query (M), Data Cleaning.
+* **Analysis**: DAX, Statistical Measures, Trend Analysis.
+* **Domain Expertise**: Supply Chain, Logistics, KPIs.
 
 ---
 
-## 🛠 Tools & Skills Used
-
-- Power BI (DAX, Power Query, data modeling)
-- Microsoft Excel (Pivot Tables, formulas, dashboards)
-- Data cleaning & transformation
-- KPI definition & business analysis
-- Data storytelling & visualization
-
----
-
-📩 **Contact**  
-Feel free to connect with me on LinkedIn or reach out for collaboration opportunities.
+## 📬 Contact Me
+* **LinkedIn**: www.linkedin.com/in/fatima-jouiry-60368b382
+* **Email**: Fatimajouiry@gmail.com

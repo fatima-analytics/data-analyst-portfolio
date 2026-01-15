@@ -10,7 +10,7 @@ The main technical task was **Salary Normalization**. I had to convert `Hourly R
 
 ## 📈 Key Findings
 * **Location Premium**: Remote roles offer 12% higher median salaries than on-site roles in certain regions.
-* **Skill Value**: Job descriptions mentioning "Cloud" or "Advanced DAX" carry a 15% salary premium.
+* **Skill Value**: Job descriptions mentioning "Senior" or "Scientist" carry a salary premium.
 
 ## 💡 Career Recommendations
 * **Skill Focus**: Aspiring analysts should prioritize Power BI and SQL.

@@ -1,26 +1,26 @@
 # Supply Chain Performance Dashboard
 
 ## 🎯 Business Context
-L'objectif principal de ce projet est d'optimiser l'efficacité opérationnelle de la chaîne logistique. Le focus est mis sur deux axes majeurs :
-1. **Réduction du Lead Time** : Diminuer l'écart entre la date de commande et la date de livraison réelle.
-2. **Optimisation de la Rentabilité** : Analyser et maximiser le profit généré par article.
+The primary objective of this project is to enhance operational efficiency within the supply chain. The analysis focuses on two key pillars:
+1. **Lead Time Reduction**: Minimizing the gap between the order date and the actual delivery date.
+2. **Profit Optimization**: Analyzing and maximizing the profit margin per item sold.
 
 ## 📊 KPIs & DAX
-Voici les principaux indicateurs de performance développés :
-* **Total Sales** : Somme globale du chiffre d'affaires.
-* **Total Profit** : Marge nette réalisée.
-* **Total Orders** : Volume total des commandes traitées.
-* **Late Delivery Rate** : Pourcentage de commandes livrées après la date promise.
-* **Suspected Fraud Count** : Identification des transactions à risque.
-* **Shipping Analysis** : Analyse des dates d'expédition pour identifier les goulots d'étranglement.
+Key performance indicators developed for this dashboard include:
+* **Total Sales**: Global revenue sum.
+* **Total Profit**: Total net margin realized.
+* **Total Orders**: Total volume of processed orders.
+* **Late Delivery Rate**: Percentage of orders delivered past the promised date.
+* **Suspected Fraud Count**: Identification of high-risk transactions.
+* **Shipping Analysis**: Monitoring dispatch dates to identify logistical bottlenecks.
 
 ## 🛠️ Data Cleaning (Power Query)
-Le nettoyage a été effectué pour garantir l'intégrité des données logistiques :
-* **Gestion des types de données** : Conversion des formats de date pour les calculs de durée de livraison.
-* **Traitement des valeurs manquantes** : Suppression ou imputation des données de livraison incomplètes.
-* **Standardisation** : Harmonisation des noms de produits et des catégories de transport.
-* **Calcul des délais** : Création de colonnes personnalisées pour mesurer l'écart entre commande et livraison.
+Rigorous data transformation was performed to ensure logistics data integrity:
+* **Data Type Management**: Standardizing date formats to calculate shipping durations.
+* **Handling Missing Values**: Cleaning or imputing incomplete delivery records.
+* **Data Standardization**: Harmonizing product names and shipping categories.
+* **Lead Time Calculation**: Creating custom columns to measure the variance between ordering and fulfillment.
 
 ## 🚀 Tools Used
 * **Power BI** (Power Query & DAX)
-* **Excel** (Source de données brute)
+* **Excel** (Raw data source)

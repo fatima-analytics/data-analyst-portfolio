@@ -29,7 +29,7 @@ Welcome to my data analytics portfolio. I am a **Logistics Management profession
 ---
 
 ## 🛠️ Technical Skills
-* **Data Visualization**: Power BI, Excel Dashboards.
+* **Data Visualization**: Power BI, Excel Dashboards,SQL.
 * **Data Transformation**: Power Query (M), Data Cleaning.
 * **Analysis**: DAX, Statistical Measures, Trend Analysis.
 * **Domain Expertise**: Supply Chain, Logistics, KPIs.

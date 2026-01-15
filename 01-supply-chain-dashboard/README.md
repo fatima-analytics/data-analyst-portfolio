@@ -24,3 +24,9 @@ Rigorous data transformation was performed to ensure logistics data integrity:
 ## 🚀 Tools Used
 * **Power BI** (Power Query & DAX)
 * **Excel** (Raw data source)
+* ---
+## 📥 How to View the Dashboard
+To interact with the analysis:
+1. Navigate to the `dashboard/` folder.
+2. Download the file (e.g., `.pbix` for Power BI or `.xlsx` for Excel).
+3. Open it on your local machine to explore the data and filters.

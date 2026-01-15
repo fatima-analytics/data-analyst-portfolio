@@ -21,3 +21,9 @@ This project involved significant data preparation to ensure salary consistency:
 ## 🚀 Tools Used
 * **Power BI** (Power Query & DAX)
 * **CSV** (Raw dataset)
+* ---
+## 📥 How to View the Dashboard
+To interact with the analysis:
+1. Navigate to the `dashboard/` folder.
+2. Download the file (e.g., `.pbix` for Power BI or `.xlsx` for Excel).
+3. Open it on your local machine to explore the data and filters.

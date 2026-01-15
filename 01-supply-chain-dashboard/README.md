@@ -30,3 +30,4 @@ To interact with the analysis:
 1. Navigate to the `dashboard/` folder.
 2. Download the file (e.g., `.pbix` for Power BI or `.xlsx` for Excel).
 3. Open it on your local machine to explore the data and filters.
+Note: Due to file size limitations, the raw dataset is not hosted in this repository. It is available upon request.

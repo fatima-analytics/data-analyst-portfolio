@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — Fatima
+# Data Analytics Portfolio- Fatima
 
 Welcome to my data analytics portfolio. I am a **Logistics Management professional** transitioning into Data Analytics. This repository showcases my ability to transform raw data into actionable business insights using Power BI, Excel and SQL.
 
